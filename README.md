@@ -10,7 +10,10 @@ production-style Streamlit dashboard with real-time retention recommendations.
 
 ## Live App
 
+🔗 **[Open ChurnIQ — Live Demo](https://telco-churn-prediction-vdzndsypitwqxadlvcewry.streamlit.app)**
+
 ```bash
+# Or run locally
 pip install streamlit scikit-learn pandas numpy matplotlib
 streamlit run app.py
 ```
